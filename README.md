@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Sankalp Tiwari 👋
 
-<!--
-**zenthar-dev/zenthar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a B.Tech CSE student and Frontend Developer in progress, currently focused on building responsive web interfaces and improving through real project work.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Building frontend projects with HTML, CSS, and JavaScript
+- Working on responsive dashboard layouts and navigation systems
+- Strengthening JavaScript, Java OOP, DBMS, and DSA fundamentals
+
+## Tools & Technologies
+
+HTML | CSS | JavaScript | Java | C++ | SQL | Git | GitHub | VS Code
+
+## Contact
+
+- Email: tiwarisankalp0012@gmail.com
+- LinkedIn: linkedin.com/in/sankalp-tiwari-b69153386
