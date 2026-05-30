@@ -15,4 +15,4 @@ HTML | CSS | JavaScript | Java | C++ | SQL | Git | GitHub | VS Code
 ## Contact
 
 - Email: tiwarisankalp0012@gmail.com
-- LinkedIn: linkedin.com/in/sankalp-tiwari-b69153386
+- [LinkedIn](https://www.linkedin.com/in/sankalp-tiwari-b69153386/)
