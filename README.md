@@ -98,9 +98,9 @@ I am a B.Tech Computer Science and Engineering student. My primary focus lies in
 
 ### 🎵 Currently Playing / Listening To
 
-[![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=<<Fill_Here_Spotify_UID>>&cover_image=true&theme=dark)](https://open.spotify.com/user/<<Fill_Here_Spotify_Username>>)
+[![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=312zdd4n2kqsab7gngmmrjh4ed2y&cover_image=true&theme=dark)](https://open.spotify.com/user/312zdd4n2kqsab7gngmmrjh4ed2y)
 
-*(Note: Link your Spotify account to show your currently playing song by replacing the placeholders above)*
+*(Note: To display your currently playing song, make sure to log in and authorize at [spotify-github-profile.vercel.app](https://spotify-github-profile.vercel.app/) using this profile)*
 
 ---
 
@@ -109,6 +109,7 @@ I am a B.Tech Computer Science and Engineering student. My primary focus lies in
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sankalp-tiwari-b69153386/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tiwarisankalp0012@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zenthar-dev)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/312zdd4n2kqsab7gngmmrjh4ed2y)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](<<Fill Here>>)
 
 ---
