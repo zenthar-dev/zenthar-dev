@@ -21,7 +21,7 @@ Frontend developer passionate about building responsive web applications, intuit
 I am a B.Tech Computer Science and Engineering student. My primary focus lies in creating responsive, pixel-perfect user interfaces and solidifying frontend development practices. I enjoy translating complex designs into clean, semantic, and performant code.
 
 - 🎓 **Education:** B.Tech in Computer Science & Engineering
-- 💼 **Internship Experience:** <<Fill Here - e.g., LeapX Frontend Intern>>
+- 💼 **Internship Experience:** Frontend Developer Intern at [LeapX-Pune](https://github.com/LeapX-Pune)
 - ⚡ **Interests:** UI/UX Design, Web Standards, Performance Optimization
 - 🛠️ **Philosophy:** Code should be as readable as it is functional.
 
@@ -57,15 +57,15 @@ I am a B.Tech Computer Science and Engineering student. My primary focus lies in
 
 ### 📂 Featured Projects
 
-#### 💻 [Event Operations Dashboard](<<Fill Here - Repo Link>>)
+#### 💻 [Event Operations Dashboard](https://github.com/LeapX-Pune/event-ops)
 *A responsive dashboard layout featuring modular sidebar navigation, active status indicators, and complete mobile-first layout optimizations.*
 - **Stack:** HTML5, CSS3, Vanilla JavaScript
-- **Links:** [Repository](<<Fill Here>>) | [Live Demo](<<Fill Here>>)
+- **Links:** [Repository](https://github.com/LeapX-Pune/event-ops) | [Live Demo](https://leapx-pune.github.io/event-ops/)
 
-#### 📋 [Project Management Board](<<Fill Here - Repo Link>>)
+#### 📋 [Project Management Board](https://github.com/LeapX-Pune/Project-Management-Board-2)
 *An interactive project workspace utilizing state management to coordinate workflows, columns, and task priority cards.*
 - **Stack:** HTML5, CSS3, Vanilla JavaScript
-- **Links:** [Repository](<<Fill Here>>) | [Live Demo](<<Fill Here>>)
+- **Links:** [Repository](https://github.com/LeapX-Pune/Project-Management-Board-2) | [Live Demo](https://leapx-pune.github.io/Project-Management-Board-2/)
 
 ---
 
@@ -93,6 +93,14 @@ I am a B.Tech Computer Science and Engineering student. My primary focus lies in
 - ⚡ Advanced asynchronous JavaScript pattern execution
 - 🏛️ Modular Frontend Architecture & design systems
 - 🔍 Layout shift and LCP optimization techniques
+
+---
+
+### 🎵 Currently Playing / Listening To
+
+[![Spotify Now Playing](https://spotify-github-profile.vercel.app/api/view?uid=<<Fill_Here_Spotify_UID>>&cover_image=true&theme=dark)](https://open.spotify.com/user/<<Fill_Here_Spotify_Username>>)
+
+*(Note: Link your Spotify account to show your currently playing song by replacing the placeholders above)*
 
 ---
 
